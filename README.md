@@ -1,1 +1,1 @@
-# trilinh
+pip install -r requirements.txt
